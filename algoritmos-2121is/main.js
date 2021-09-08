@@ -29,7 +29,7 @@ var humano2 = "juan";
 if(humano1 == humano2){
     console.long("son iguales");
 }else{
-console.long("son diferentes")
+console.long("son diferentes");
 }
 
 
@@ -47,10 +47,17 @@ var transporte = "combi";
 console.long("salir a la entrada de mi casa");
 
 if(transporte =="combi"){
-    console.long("paso2 subirme a la combi")
+    console.long("paso2 subirme a la combi");
 }else{
-    console.long("paso 2 subirme al transporte")
+    console.long("paso 2 subirme al transporte");
 }
-console.long("bajar en paradero")
+console.long("paso 3  bajar en paradero");
+console.long("paso 4  caminar a la entrada de la universidad");
+console.long("paso 5  caminar en el aula");
+
+
+
+
+
 
 
