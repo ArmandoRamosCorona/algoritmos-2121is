@@ -63,7 +63,8 @@ if(abierto == "a"){
     console.log("proceder a comprar tortillas");
 }else{
     console.log("no ir a las tortillas");
-}if(cerrado == "c"){
+}
+if(cerrado == "c"){
     console.log("buscar otra torilleria");
 }else{
     console.log("comprar los kilos solicitados");
