@@ -44,20 +44,28 @@ if(pi != radio){
 
 var transporte = "combi";
 
-console.long("salir a la entrada de mi casa");
+console.log("salir a la entrada de mi casa");
 
 if(transporte =="combi"){
-    console.long("paso2 subirme a la combi");
+    console.log("paso2 subirme a la combi");
 }else{
-    console.long("paso 2 subirme al transporte");
+    console.log("paso 2 subirme al transporte");
 }
-console.long("paso 3  bajar en paradero");
-console.long("paso 4  caminar a la entrada de la universidad");
-console.long("paso 5  caminar en el aula");
+console.log("paso 3  bajar en paradero");
+console.log("paso 4  caminar a la entrada de la universidad");
+console.log("paso 5  caminar en el aula");
 
-var kilo = "k"
-var cobrar = "son"
+var abierto = "a";
+var cerrado = "c";
 
-
-
+console.log("PASOS para ir a las trotillas");
+if(abierto == "a"){
+    console.log("proceder a comprar tortillas");
+}else{
+    console.log("no ir a las tortillas");
+}if(cerrado == "c"){
+    console.log("buscar otra torilleria");
+}else{
+    console.log("comprar los kilos solicitados");
+}
 
