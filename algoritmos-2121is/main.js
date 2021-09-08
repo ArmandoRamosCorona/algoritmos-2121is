@@ -27,9 +27,9 @@ var humano1 = "emmanuel";
 var humano2 = "juan";
 
 if(humano1 == humano2){
-    console.long("son iguales");
+    console.log("son iguales");
 }else{
-console.long("son diferentes");
+console.log("son diferentes");
 }
 
 
@@ -55,8 +55,8 @@ console.long("paso 3  bajar en paradero");
 console.long("paso 4  caminar a la entrada de la universidad");
 console.long("paso 5  caminar en el aula");
 
-
-
+var kilo = "k"
+var cobrar = "son"
 
 
 
