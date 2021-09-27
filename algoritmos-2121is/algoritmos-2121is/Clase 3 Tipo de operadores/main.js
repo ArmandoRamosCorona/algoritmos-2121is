@@ -66,19 +66,19 @@ var n2 = 5;
 var operacion = "perro";
 var total = 0;
 
-if(operacion == "suma"){
+if (operacion == "suma") {
     total = n1 + n2;
 }
 
-if(operacion == "resta"){
+if (operacion == "resta") {
     total = n1 - n2;
 }
 
-if(operacion == "multiplicacion"){
+if (operacion == "multiplicacion") {
     total = n1 * n2;
 }
 
-if(operacion == "division"){
+if (operacion == "division") {
     total = n1 / n2;
 }
 
